@@ -1,3 +1,12 @@
+/**
+ * @param {string} student_name,
+ * @param {number} id,
+ * @param {number} quiz_1,
+ * @param {number} quiz_2,
+ * @param {number} quiz_3,
+ * @param {number} final
+ */
+
 let info = [
     {student_name:'ces', id:71234, quiz_1: 70, quiz_2: 75, quiz_3: 80, final: 65},
     {student_name:'adc', id:78694, quiz_1: 45, quiz_2: 34, quiz_3: 90, final: 75},
